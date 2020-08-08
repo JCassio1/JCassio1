@@ -12,9 +12,9 @@ I create amazing solutions to problems by creating software, full stack Develope
 <p align="center">
   <i>Let's connect and chat! Open to anyone.</i>
 <p align="center">
-    <a href="https://www.linkedin.com/in/joselsondias/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
-    <a href="https://www.facebook.com/menino.barbudo" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
-    <a href="https://github.com/imdhruv99" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://www.linkedin.com/in/joselsondias/" alt="Linkedin"><img src="https://github.com/JCassio1/JCassio1/blob/master/linkedin.png"></a>
+    <a href="https://www.facebook.com/menino.barbudo" alt="Facebook"><img src="https://github.com/JCassio1/JCassio1/blob/master/facebook.png"></a>
+    <a href="https://github.com/JCassio1" alt="GitHub"><img src="https://github.com/JCassio1/JCassio1/blob/master/github.png"></a>
 </p>
   
 </p>
