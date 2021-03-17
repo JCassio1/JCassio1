@@ -1,11 +1,11 @@
 ### Hey, It's Joselson Dias here 👋
-I create amazing solutions to problems by creating software, full stack Developer and passioned about beautiful design (UX/UI). I love experimenting with new technologies and building small projects.
+I create amazing solutions to problems by creating software to address them. Full stack Developer and passioned about UX/UI. I love experimenting with new technologies and building projects.
 
-- 💻 I work a lot on apps based in Swift/SwiftUI but I quickly switch or learn other languages whenever it is apropriate for a certain project.
+- 💻 I work a lot on apps based in Swift/SwiftUI but I quickly switch or learn other languages whenever it is apropriate for certain projects.
 - ☀️ Learning and Developing complex SwiftUI apps with deep focus on user experience and design.
 - 💬 Ask me about software, digital marketing and any other topic.
 - ✍️ Writing tech blog posts over Internet.
-- 😄 I deeply recommend listening to music and eating cashews while coding
+- 😄 I deeply recommend listening to music while coding
 - ⚡ Fun fact: I have a page on instagram about [Cyber-security](https://www.instagram.com/codigo.qr.ao/) and love to create dishes with elaborate preparations and presented aesthetically.
 
 <hr>
