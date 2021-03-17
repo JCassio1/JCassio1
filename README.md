@@ -1,5 +1,5 @@
 ### Hey, It's Joselson Dias here 👋
-I create amazing solutions to problems by creating software to address them. Full stack Developer and passioned about UX/UI. I love experimenting with new technologies and building projects.
+From quality of code to a great user experience. I love experimenting with new technologies and building projects.
 
 - 💻 I work a lot on apps based in Swift/SwiftUI but I quickly switch or learn other languages whenever it is apropriate for certain projects.
 - ☀️ Learning and Developing complex SwiftUI apps with deep focus on user experience and design.
