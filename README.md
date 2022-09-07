@@ -1,7 +1,7 @@
 <h1> Hey, It's Joselson Dias here 👋 </h1>
 
 <div style="padding-top: 20px"></div>
-<img align="right" src="./assets/joselson-dias-3D.png" alt="Joselson Dias 3D figure" height="300px">
+<img align="right" src="https://github.com/JCassio1/JCassio1/blob/master/assets/joselson-dias-3d.png" alt="Joselson Dias 3D figure" height="300px">
 
 ```JavaScript
 const aboutMyself = {
