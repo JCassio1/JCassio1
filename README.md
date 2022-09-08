@@ -26,13 +26,36 @@ From quality of code to a great user experience. Open to experiment new technolo
 - 😄 I deeply recommend listening to music while coding
 
 <hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anyone.</i>
-<p align="center">
-    <a href="https://www.linkedin.com/in/joselsondias/" alt="Linkedin"><img src="https://github.com/JCassio1/JCassio1/blob/master/linkedin.png"></a>
-    <a href="https://www.facebook.com/menino.barbudo" alt="Facebook"><img src="https://github.com/JCassio1/JCassio1/blob/master/facebook.png"></a>
-    <a href="https://github.com/JCassio1" alt="GitHub"><img src="https://github.com/JCassio1/JCassio1/blob/master/github.png"></a>
-</p>
+
+## My languages and technologies 
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+</div>
+
+</td></tr></table>  
+
 
 <div style="padding-top: 60px"></div>
 
