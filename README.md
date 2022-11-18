@@ -19,10 +19,10 @@ const aboutMyself = {
 
 From quality of code to a great user experience. Open to experiment new technologies and building projects.
 
-- 💻 My main area of interest are Javascript and SwiftUI apps but I quickly pick up other languages whenever it is apropriate for certain projects.
+- 💻 My main area of interest are web development and cyber security but I also adapt to project requirements.
 - ☀️ Learning and Developing apps with a focus on user experience and design.
 - 💬 Ask me about software and digital marketing. If I don't know, I will research it.
-- ✍️ Studied cyber-security and has an major interest in it.
+- ✍️ Studied cyber-security and have a major interest in it.
 - 😄 I deeply recommend listening to music while coding
 
 <hr>
