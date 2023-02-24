@@ -8,7 +8,6 @@ const aboutMyself = {
   name: 'Joselson Dias',
   location: 'United Kingdom',
   isFullStackDev: true,
-  level: 'Junior',
   hardSkills: ['Javascript', 'Typescript', 'Node.JS', 'React', 'Express', 'SwiftUI', 'Bootstrap', 'Figma'],
   softSkills: ['Communication', 'Leadership', 'Collaboration', 'Problem-solving', 'EQ'],
   contactMe: function () {
