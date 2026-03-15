@@ -14,21 +14,6 @@ const aboutMyself = {
     return 'https://www.linkedin.com/in/joselsondias/'
   }
 }
-```
-
-From quality of code to a great user experience. Open to experiment new technologies and building projects.
-
-- 💻 My main area of interest are web development and cyber security but I also adapt to project requirements.
-- ☀️ Learning and Developing apps with a focus on user experience and design.
-- 💬 Ask me about software and digital marketing. If I don't know, I will research it.
-- ✍️ Studied cyber-security and have a major interest in it.
-- 😄 I deeply recommend listening to music while coding
-
-<hr>
-
-## My languages and technologies 
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
