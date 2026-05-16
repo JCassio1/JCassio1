@@ -2,7 +2,7 @@
 
 # Hey, I'm Joselson Dias 👋🏾
 
-### Full Stack Developer · MacOs Nerd · Running Addict 🏃🏾‍♂️
+### Full Stack Developer · Tech & Aircraft Nerd · Running Addict 🏃🏾‍♂️
 
 *I build things to make peoples lives easier and not just for the fun of it. I also write about the craft.*
 
