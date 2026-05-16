@@ -44,6 +44,12 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=ba8fff)&nbsp;
 ![Tanstack](https://img.shields.io/badge/-TanStack-05122A?style=flat&logo=reactquery&logoColor=ff4154)&nbsp;
 
+**Databases**
+
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
 **Testing**
 
 ![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;
