@@ -65,6 +65,3 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka&logoColor=white)&nbsp;
-
-
-I am doing some house cleaning so you might notice that some projects have been deleted or archived!
